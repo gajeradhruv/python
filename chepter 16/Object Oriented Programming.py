@@ -18,4 +18,4 @@ class laptop:
         self.price=price
 
 laptop1=laptop('HP','ax114x',63000)
-print(laptop1.model)
+print(laptop1.price)
