@@ -9,4 +9,4 @@
 
 """hello"""
 print ( "hey",6,7,sep="~", end="007 \n")
-print("krishnradhe")
+print("krishn radhe")
