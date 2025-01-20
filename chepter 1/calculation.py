@@ -32,6 +32,6 @@ print(number1)
 
 #convention for variable naming
 user_one="krishna" #snake case writing
-userone="krishna"  #camel case writing
+userone="krishna "  #camel case writing
 
 
