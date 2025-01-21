@@ -1,0 +1,5 @@
+{
+    "git.autofetch": "all",
+    "git-graph.repository.fetchAndPruneTags": true,
+    "git-graph.dialog.fetchIntoLocalBranch.forceFetch": true
+}
